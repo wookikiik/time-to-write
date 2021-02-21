@@ -1,0 +1,19 @@
+{
+  "name": "time-to-write",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "/time-to-write",
+  "scripts": {
+    "dev": "vuepress dev ./docs/src",
+    "build": "vuepress build ./docs/src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
